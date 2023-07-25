@@ -20,3 +20,4 @@ SELECT
  updated_at
 FROM
  src_hosts
+ --adding comment
